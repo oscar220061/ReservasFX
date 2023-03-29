@@ -1,0 +1,2 @@
+aula1;30;Epson82;13 con Vitalinux;Sin observaciones
+aula2;30;Epson82;13 con WindowsVista;Sin observaciones
